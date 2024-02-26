@@ -69,6 +69,7 @@ pipeline {
         }
         success{
             echo 'I will say Hello when pipeline is successfully'
+            echo 'you are my house'
         }
     }
 }
